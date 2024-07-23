@@ -174,7 +174,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   port: 5052
   startReceiving: 1
-  printToConsole: 0
+  printToConsole: 1
   data: 
 --- !u!114 &7221561
 MonoBehaviour:
